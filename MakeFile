@@ -6,16 +6,22 @@ service_dir=/etc/systemd/system
 venv=${lib_dir}/venv
 
 install: $(service_dir) waa_bot.service
+	@echo installing the required packages for pillow
+	apt-get install ffmpeg libsm6 libxext6  -y
+	
+
 	@echo Installing the service files...
 	cp waa_bot.service $(service_dir)
 	chown root:root $(service_dir)/waa_bot.service
-	chmod 644 $(service_dir)/	.service
+	chmod 644 $(service_dir)/waa_bot.service
 
 	@echo Installing library files...
 	mkdir -p $(lib_dir)
 	cp waa_bot.py $(lib_dir)
+	cp Trap-ExtraBold.otf $(lib_dir)
 	chown root:root $(lib_dir)/*
 	chmod 644 $(lib_dir)
+
 
 	@echo Installing configuration files...
 	mkdir -p $(conf_dir)
@@ -28,6 +34,7 @@ install: $(service_dir) waa_bot.service
 	$(venv)/bin/pip3 install -r requirements.txt
 
 	@echo Installation complete...
+	@echo 'waa_bot.env' file needed in $(lib_dir) to run the service
 	@echo run 'systemctl start waa_bot' to start service
 	@echo run 'systemctl status waa_bot' to view status
 
