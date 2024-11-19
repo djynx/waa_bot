@@ -14,9 +14,6 @@ import logging
 import os
 import asyncio
 from concurrent.futures import ThreadPoolExecutor
-from dotenv import load_dotenv
-
-load_dotenv()
 
 # Set up logging
 logging.basicConfig(
