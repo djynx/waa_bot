@@ -5,9 +5,10 @@ name = "pypi"
 
 [packages]
 pillow = "*"
-python-telegram-bot = "*"
 opencv-python = "*"
 numpy = "*"
+python-telegram-bot = {extras = ["job-queue"], version = "*"}
+python-dotenv = {extras = ["cli"], version = "*"}
 
 [dev-packages]
 

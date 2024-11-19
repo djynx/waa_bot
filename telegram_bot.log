@@ -1,0 +1,1099 @@
+2024-11-20 02:03:54,485 - __main__ - CRITICAL - Fatal error: You must pass the token you received from https://t.me/Botfather!
+Traceback (most recent call last):
+  File "/Users/djynx/Desktop/waa/waa_bot.py", line 162, in main
+    .build()
+     ^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_applicationbuilder.py", line 299, in build
+    bot: Bot = self._build_ext_bot()  # build a bot
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_applicationbuilder.py", line 261, in _build_ext_bot
+    return ExtBot(
+           ^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 225, in __init__
+    super().__init__(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 250, in __init__
+    raise InvalidToken("You must pass the token you received from https://t.me/Botfather!")
+telegram.error.InvalidToken: You must pass the token you received from https://t.me/Botfather!
+2024-11-20 02:07:13,657 - __main__ - CRITICAL - Fatal error: You must pass the token you received from https://t.me/Botfather!
+Traceback (most recent call last):
+  File "/Users/djynx/Desktop/waa/waa_bot.py", line 164, in main
+    .build()
+     ^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_applicationbuilder.py", line 299, in build
+    bot: Bot = self._build_ext_bot()  # build a bot
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_applicationbuilder.py", line 261, in _build_ext_bot
+    return ExtBot(
+           ^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 225, in __init__
+    super().__init__(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 250, in __init__
+    raise InvalidToken("You must pass the token you received from https://t.me/Botfather!")
+telegram.error.InvalidToken: You must pass the token you received from https://t.me/Botfather!
+2024-11-20 02:09:17,336 - __main__ - CRITICAL - Fatal error: You must pass the token you received from https://t.me/Botfather!
+Traceback (most recent call last):
+  File "/Users/djynx/Desktop/waa/waa_bot.py", line 162, in main
+    .build()
+     ^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_applicationbuilder.py", line 299, in build
+    bot: Bot = self._build_ext_bot()  # build a bot
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_applicationbuilder.py", line 261, in _build_ext_bot
+    return ExtBot(
+           ^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 225, in __init__
+    super().__init__(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 250, in __init__
+    raise InvalidToken("You must pass the token you received from https://t.me/Botfather!")
+telegram.error.InvalidToken: You must pass the token you received from https://t.me/Botfather!
+2024-11-20 02:09:59,079 - __main__ - CRITICAL - Fatal error: You must pass the token you received from https://t.me/Botfather!
+Traceback (most recent call last):
+  File "/Users/djynx/Desktop/waa/waa_bot.py", line 165, in main
+    .build()
+     ^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_applicationbuilder.py", line 299, in build
+    bot: Bot = self._build_ext_bot()  # build a bot
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_applicationbuilder.py", line 261, in _build_ext_bot
+    return ExtBot(
+           ^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 225, in __init__
+    super().__init__(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 250, in __init__
+    raise InvalidToken("You must pass the token you received from https://t.me/Botfather!")
+telegram.error.InvalidToken: You must pass the token you received from https://t.me/Botfather!
+2024-11-20 02:13:00,066 - __main__ - CRITICAL - Fatal error: You must pass the token you received from https://t.me/Botfather!
+Traceback (most recent call last):
+  File "/Users/djynx/Desktop/waa/waa_bot.py", line 165, in main
+    .build()
+     ^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_applicationbuilder.py", line 299, in build
+    bot: Bot = self._build_ext_bot()  # build a bot
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_applicationbuilder.py", line 261, in _build_ext_bot
+    return ExtBot(
+           ^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 225, in __init__
+    super().__init__(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 250, in __init__
+    raise InvalidToken("You must pass the token you received from https://t.me/Botfather!")
+telegram.error.InvalidToken: You must pass the token you received from https://t.me/Botfather!
+2024-11-20 02:13:07,516 - __main__ - CRITICAL - Fatal error: You must pass the token you received from https://t.me/Botfather!
+Traceback (most recent call last):
+  File "/Users/djynx/Desktop/waa/waa_bot.py", line 165, in main
+    .build()
+     ^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_applicationbuilder.py", line 299, in build
+    bot: Bot = self._build_ext_bot()  # build a bot
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_applicationbuilder.py", line 261, in _build_ext_bot
+    return ExtBot(
+           ^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 225, in __init__
+    super().__init__(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 250, in __init__
+    raise InvalidToken("You must pass the token you received from https://t.me/Botfather!")
+telegram.error.InvalidToken: You must pass the token you received from https://t.me/Botfather!
+2024-11-20 02:14:44,829 - __main__ - INFO - Bot started! Press Ctrl+C to stop
+2024-11-20 02:14:44,830 - __main__ - INFO - Registered command: /waaify
+2024-11-20 02:14:45,006 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getMe "HTTP/1.1 200 OK"
+2024-11-20 02:14:45,094 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/deleteWebhook "HTTP/1.1 200 OK"
+2024-11-20 02:14:45,095 - apscheduler.scheduler - INFO - Scheduler started
+2024-11-20 02:14:45,095 - telegram.ext.Application - INFO - Application started
+2024-11-20 02:14:49,399 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:14:49,400 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:14:55,076 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:14:55,076 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:15:01,961 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:15:01,963 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:15:07,793 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:15:07,793 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:15:16,493 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:15:16,493 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:15:29,666 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:15:29,668 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:15:47,584 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:15:49,119 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:15:49,121 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:16:00,189 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:16:04,885 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:16:10,740 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:16:10,742 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:16:16,494 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:16:16,718 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/sendMessage "HTTP/1.1 200 OK"
+2024-11-20 02:16:16,777 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getFile "HTTP/1.1 200 OK"
+2024-11-20 02:16:17,077 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7002455827%3AAAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/photos/file_12.jpg "HTTP/1.1 200 OK"
+2024-11-20 02:16:19,706 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/sendPhoto "HTTP/1.1 200 OK"
+2024-11-20 02:16:19,773 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/deleteMessage "HTTP/1.1 200 OK"
+2024-11-20 02:16:26,558 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:16:32,579 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:16:35,601 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:16:40,730 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:16:40,732 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:16:48,540 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:16:58,653 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:17:08,722 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:17:15,137 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:17:15,141 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:17:26,201 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:17:29,955 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:17:30,192 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/sendMessage "HTTP/1.1 200 OK"
+2024-11-20 02:17:30,268 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getFile "HTTP/1.1 200 OK"
+2024-11-20 02:17:30,334 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7002455827%3AAAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/photos/file_42.jpg "HTTP/1.1 200 OK"
+2024-11-20 02:17:31,825 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/sendPhoto "HTTP/1.1 200 OK"
+2024-11-20 02:17:31,895 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/deleteMessage "HTTP/1.1 200 OK"
+2024-11-20 02:17:40,108 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:17:49,443 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:17:49,445 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:17:54,116 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:18:04,216 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:18:14,279 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:18:23,743 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:18:23,743 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:18:34,807 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:18:44,862 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:18:54,912 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:18:58,018 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:18:58,021 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:19:09,086 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:19:19,159 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:19:29,218 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:19:32,305 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:19:32,306 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:19:43,363 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:19:53,513 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:19:55,696 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:20:05,770 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:20:06,636 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:20:06,636 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:20:17,713 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:20:27,802 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:20:37,874 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:20:40,917 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:20:40,918 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:20:51,984 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:21:02,044 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:21:12,111 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:21:15,188 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:21:15,190 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:21:26,252 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:21:36,357 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:21:46,490 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:21:49,459 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:21:49,461 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:22:00,521 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:22:10,589 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:22:20,647 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:22:23,720 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:22:23,721 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:22:34,782 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:22:44,843 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:22:54,910 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:22:58,003 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:22:58,004 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:23:09,066 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:23:19,153 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:23:29,214 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:23:32,295 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:23:32,297 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:23:43,354 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:23:53,412 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:24:03,471 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:24:06,573 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:24:06,575 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:24:17,678 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:24:27,735 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:24:37,794 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:24:40,898 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:24:40,901 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:24:51,972 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:25:02,042 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:25:12,100 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:25:15,188 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:25:15,190 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:25:26,437 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:25:36,576 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:25:46,639 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:25:49,583 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:25:49,585 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:26:00,741 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:26:10,802 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:26:20,861 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:26:23,888 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:26:23,890 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:26:34,967 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:26:45,024 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:26:55,086 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:26:58,174 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 409 Conflict"
+2024-11-20 02:26:58,176 - __main__ - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 743, in _network_loop_retry
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 737, in do_action
+    return action_cb_task.result()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_updater.py", line 367, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 647, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 4421, in get_updates
+    await self._post(
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 617, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 351, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/_bot.py", line 646, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/djynx/.local/share/virtualenvs/waa-2IOBE6V3/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 385, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-11-20 02:27:09,259 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:27:19,316 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:27:20,570 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:27:30,648 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:27:30,779 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:27:40,905 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:27:50,963 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:28:01,025 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:28:11,097 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:28:21,155 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:28:31,253 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:28:41,311 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:28:51,375 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:29:01,440 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:29:02,456 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:29:05,870 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:29:15,929 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:29:16,447 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:29:19,297 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:29:28,055 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:29:38,117 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:29:48,187 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:29:58,247 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:30:08,324 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:30:18,483 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:30:28,623 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:30:38,687 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:30:48,757 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:30:58,817 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:31:08,881 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:31:18,940 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:31:28,998 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:31:39,076 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:31:49,206 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:31:59,348 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:32:09,486 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:32:19,545 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:32:29,655 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:32:39,787 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:32:49,851 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:32:59,912 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:33:09,972 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:33:20,146 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:33:30,276 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:33:40,334 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:33:50,433 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:34:00,591 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:34:01,828 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:34:09,641 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:34:09,884 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/sendMessage "HTTP/1.1 200 OK"
+2024-11-20 02:34:09,944 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getFile "HTTP/1.1 200 OK"
+2024-11-20 02:34:10,009 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7002455827%3AAAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/photos/file_13.jpg "HTTP/1.1 200 OK"
+2024-11-20 02:34:11,147 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/sendPhoto "HTTP/1.1 200 OK"
+2024-11-20 02:34:11,224 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/deleteMessage "HTTP/1.1 200 OK"
+2024-11-20 02:34:18,134 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:34:20,873 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:34:30,936 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:34:40,992 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:34:50,013 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7002455827:AAHCwf-e_R6hWMzAnepnVsgzTFr13Srnz9A/getUpdates "HTTP/1.1 200 OK"
+2024-11-20 02:34:50,015 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-11-20 02:34:50,016 - apscheduler.scheduler - INFO - Scheduler has been shut down

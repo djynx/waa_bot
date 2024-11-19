@@ -12,18 +12,27 @@ from io import BytesIO
 from PIL import Image, ImageDraw, ImageFont
 import logging
 import os
+import asyncio
+from concurrent.futures import ThreadPoolExecutor
+from dotenv import load_dotenv
 
-""" # Set up logging
+load_dotenv()
+
+# Set up logging
 logging.basicConfig(
-    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
-) """
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    level=logging.INFO,
+    filename="telegram_bot.log",  # Add file logging
+)
+logger = logging.getLogger(__name__)
 
-# Replace with your bot token
 TOKEN = os.getenv("TOKEN")
 FONT_PATH = "Trap-ExtraBold.otf"
 LETTER_SPACING = -3.5
 TEXT = "waa"
 TEXT_COVERAGE = 0.4
+
+executor = ThreadPoolExecutor(max_workers=5)
 
 
 async def add_text(image, text=TEXT):
@@ -106,45 +115,73 @@ async def apply_filter(photo, context):
 
 
 async def handle_waaify(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    message = update.message
-    logging.debug(f"Full message object: {message}")
+    """Handle the /waaify command with proper error handling and user feedback."""
+    try:
+        message = update.message
+        if not message.reply_to_message:
+            await message.reply_text("Please reply to an image with /waaify")
+            return
 
-    if not message.reply_to_message:
-        logging.debug("No reply_to_message")
-        return
+        reply = message.reply_to_message
+        if not hasattr(reply, "photo") or not reply.photo:
+            await message.reply_text("The replied message doesn't contain an image")
+            return
 
-    reply = message.reply_to_message
-    logging.debug(f"Reply message type: {type(reply)}")
-    logging.debug(f"Reply message content: {reply}")
+        # Send a processing message
+        processing_msg = await message.reply_text("Processing image... 🔄")
 
-    if hasattr(reply, "photo"):
-        photos = reply.photo
-        logging.debug(f"Photos in reply: {photos}")
-        if photos:
-            try:
-                photo = photos[-1]
-                filtered_photo = await apply_filter(photo, context)
-                await update.message.reply_photo(
-                    photo=filtered_photo, reply_to_message_id=reply.message_id
-                )
-            except Exception as e:
-                logging.error(f"Processing error: {str(e)}", exc_info=True)
-                await message.reply_text(f"Error: {str(e)}")
-    else:
-        logging.debug("No photo attribute in reply")
+        try:
+            photo = reply.photo[-1]
+            filtered_photo = await apply_filter(photo, context)
+            await update.message.reply_photo(
+                photo=filtered_photo, reply_to_message_id=reply.message_id
+            )
+        finally:
+            # Clean up processing message
+            await processing_msg.delete()
+
+    except Exception as e:
+        error_message = f"Error processing image: {str(e)}"
+        logger.error(error_message, exc_info=True)
+        await message.reply_text(
+            "Sorry, something went wrong while processing the image. Please try again later."
+        )
+
+
+async def error_handler(update: object, context: ContextTypes.DEFAULT_TYPE) -> None:
+    """Handle errors in the telegram-python-bot library."""
+    logger.error(
+        f"Update {update} caused error {context.error}", exc_info=context.error
+    )
 
 
 def main():
-    application = Application.builder().token(TOKEN).build()
+    try:
+        # Build application with proper error handling
+        application = (
+            Application.builder()
+            .token(TOKEN)
+            .concurrent_updates(True)  # Enable concurrent updates
+            .build()
+        )
 
-    # Register command handler
-    application.add_handler(CommandHandler("waaify", handle_waaify))
+        # Register handlers
+        application.add_handler(CommandHandler("waaify", handle_waaify))
+        application.add_error_handler(error_handler)
 
-    # Log startup
-    print("Bot started! Press Ctrl+C to stop")
-    print("Registered command: /waaify")
+        # Log startup
+        logger.info("Bot started! Press Ctrl+C to stop")
+        logger.info("Registered command: /waaify")
 
-    application.run_polling()
+        # Start the bot with proper shutdown handling
+        application.run_polling(
+            allowed_updates=Update.ALL_TYPES,
+            drop_pending_updates=True,  # Ignore any pending updates
+        )
+
+    except Exception as e:
+        logger.critical(f"Fatal error: {str(e)}", exc_info=True)
+        raise
 
 
 if __name__ == "__main__":
