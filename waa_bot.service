@@ -1,0 +1,13 @@
+[Unit]
+Description=waa Telegram Bot Python Service
+
+[Service]
+WorkingDirectory=/usr/local/lib/waa_bot/
+Environment=PYTHONUNBUFFERED=1
+EnvironmentFile=/usr/local/etc/waa_bot/waa_bot.env
+ExecStart=/usr/local/lib/waa_bot/venv/bin/python3 /usr/local/lib/waa_bot/waa_bot.py
+
+Restart=on-failure
+
+[Install]
+WantedBy=default.target
